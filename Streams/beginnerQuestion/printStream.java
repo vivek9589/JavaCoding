@@ -1,7 +1,7 @@
 
 
 // Convert a list to a stream.
-package beginnerQuestion;
+package Streams.beginnerQuestion;
 import java.util.*;
 
 public class printStream
