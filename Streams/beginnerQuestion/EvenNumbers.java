@@ -1,5 +1,5 @@
 
-package beginnerQuestion;
+package Streams.beginnerQuestion;
 import  java.util.*;
 import java.util.stream.*;
 

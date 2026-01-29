@@ -1,4 +1,4 @@
-package beginnerQuestion;
+package Streams.beginnerQuestion;
 
 import java.util.ArrayList;
 import java.util.Comparator;

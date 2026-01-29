@@ -2,7 +2,7 @@
 
 
 
-package beginnerQuestion;
+package Streams.beginnerQuestion;
 import java.util.*;
 
 public class CountElement

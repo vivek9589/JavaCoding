@@ -32,7 +32,7 @@ public class CountVowelsConsonants {
     }
 
 
-    public static void countVowelsAndConsonants(String str)
+    public static void countVowelsAndConsonants1(String str)
     {
         int vowel = 0;
         int consonant = 0;
